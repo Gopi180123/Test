@@ -1,0 +1,981 @@
+Request method:	GET
+Request URI:	https://func-resourcesvcapi-dev-we.azurewebsites.net/api/buildings/
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		x-functions-key=goevoaWr4IsIxWJ1HiiqkQ5RiYUerMF6lZlaJkjE0aYJWaHawFL/MA==
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Content-Type: text/plain; charset=utf-8
+Server: Kestrel
+Date: Wed, 14 Oct 2020 07:10:57 GMT
+
+[
+  {
+    "id": "446ebb9c-5ad2-45a7-b34b-ebb8c690792c",
+    "name": "Henry Wood House",
+    "resourceId": "5c7d675699438301830209d9",
+    "cmsId": "henry-wood-house",
+    "pmsId": "4c8f5bd5-c36e-4e42-82c7-8a68660c9fe3",
+    "locations": [
+      "uk",
+      "london",
+      "london-central",
+      "oxford-street"
+    ],
+    "alternateAreas": [
+      "fitzrovia",
+      "marylebone",
+      "mayfair",
+      "soho",
+      "oxford-street"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:04:10.225Z",
+    "updatedAt": "2020-10-06T07:04:10.225Z"
+  },
+  {
+    "id": "52fb3371-4481-4229-b116-356d8a58380c",
+    "name": "The Stanley Building",
+    "resourceId": "5dad703838490801a811c269",
+    "cmsId": "the-stanley-building",
+    "pmsId": "0d9c35d3-2dad-4767-9b2a-043d5329712d",
+    "locations": [
+      "uk",
+      "london",
+      "london-north",
+      "kings-cross"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:04:13.219Z",
+    "updatedAt": "2020-10-06T07:04:13.219Z"
+  },
+  {
+    "id": "95689644-f49b-40f7-87ea-d4fa1348922f",
+    "name": "133 Whitechapel High St",
+    "resourceId": "5dad74788e4a5b016df80ff9",
+    "cmsId": "133-whitechapel-high-st",
+    "pmsId": "7b29fe34-915c-47c3-b822-9bc74daf390f",
+    "locations": [
+      "uk",
+      "london",
+      "london-east",
+      "aldgate"
+    ],
+    "alternateAreas": [
+      "bank",
+      "city-of-london",
+      "moorgate",
+      "shoreditch",
+      "london-bridge"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:04:15.575Z",
+    "updatedAt": "2020-10-06T07:04:15.575Z"
+  },
+  {
+    "id": "4b4dc313-08df-4d4f-89e4-f85cc548fb62",
+    "name": "No 19 Eastbourne Terrace",
+    "resourceId": "5dad748dfef930025d2804f5",
+    "cmsId": "no-19-eastbourne-terrace",
+    "pmsId": "9e5c2111-4377-4109-b318-3c1cacc8b504",
+    "locations": [
+      "uk",
+      "london",
+      "london-west",
+      "paddington"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:04:17.952Z",
+    "updatedAt": "2020-10-06T07:04:17.952Z"
+  },
+  {
+    "id": "38fa599d-4d80-4609-9ab9-765aa805d6cb",
+    "name": "20 Eastbourne Terrace",
+    "resourceId": "5dad749a8e4a5b016df81a75",
+    "cmsId": "20-eastbourne-terrace",
+    "pmsId": "fd7bfc87-d034-4209-aed9-5e7a82e357da",
+    "locations": [
+      "uk",
+      "london",
+      "london-west",
+      "paddington"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:04:20.124Z",
+    "updatedAt": "2020-10-06T07:04:20.124Z"
+  },
+  {
+    "id": "ba3cc474-06d3-4584-aa3a-c2f82472f812",
+    "name": "201 Borough High Street",
+    "resourceId": "5dad74a78e4a5b016df81f11",
+    "cmsId": "201-borough-high-street",
+    "pmsId": "898ae4e7-ab2f-4a72-9791-ca32b35cfdae",
+    "locations": [
+      "uk",
+      "london",
+      "london-south",
+      "southwark-borough"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:04:22.271Z",
+    "updatedAt": "2020-10-06T07:04:22.271Z"
+  },
+  {
+    "id": "921f7cb5-c55a-4153-823e-2142b09ab999",
+    "name": "24/25",
+    "resourceId": "5dad74b78e4a5b016df82298",
+    "cmsId": "2425",
+    "pmsId": "3a32e001-8a8a-40d3-872d-ce38041a3e09",
+    "locations": [
+      "uk",
+      "london",
+      "london-south",
+      "london-bridge"
+    ],
+    "alternateAreas": [
+      "aldgate",
+      "bank",
+      "city-of-london",
+      "moorgate",
+      "london-bridge",
+      "southwark-borough"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:04:24.610Z",
+    "updatedAt": "2020-10-06T07:04:24.610Z"
+  },
+  {
+    "id": "388f4dd3-a8d5-4c72-8939-7f0f45fe8341",
+    "name": "50 Liverpool St",
+    "resourceId": "5dad74c48e4a5b016df8244c",
+    "cmsId": "50-liverpool-st",
+    "pmsId": "7ef004a7-9a80-4acc-bb4d-102721cb855c",
+    "locations": [
+      "uk",
+      "london",
+      "london-east",
+      "moorgate"
+    ],
+    "alternateAreas": [
+      "aldgate",
+      "bank",
+      "city-of-london"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:04:26.898Z",
+    "updatedAt": "2020-10-06T07:04:26.898Z"
+  },
+  {
+    "id": "96ddc337-644d-45cf-92c9-c008717c2dfc",
+    "name": "81 Rivington St",
+    "resourceId": "5dad74cefef930025d2815af",
+    "cmsId": "81-rivington-st",
+    "pmsId": "5b7d0939-dea8-4142-bd79-aa4fce23afd6",
+    "locations": [
+      "uk",
+      "london",
+      "london-east",
+      "shoreditch"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:04:29.645Z",
+    "updatedAt": "2020-10-06T07:04:29.645Z"
+  },
+  {
+    "id": "1c97da00-b849-4a13-955d-bf168889225b",
+    "name": "91 Wimpole Street",
+    "resourceId": "5dad74dafef930025d2816b0",
+    "cmsId": "91-wimpole-street",
+    "pmsId": "3b2cc5af-fe93-410d-81a7-6aa7e23e76d2",
+    "locations": [
+      "uk",
+      "london",
+      "london-central",
+      "marylebone"
+    ],
+    "alternateAreas": [
+      "fitzrovia",
+      "mayfair",
+      "oxford-street",
+      "soho"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:04:31.850Z",
+    "updatedAt": "2020-10-06T07:04:31.850Z"
+  },
+  {
+    "id": "3e768d94-65ce-4b1b-9441-f0c9b5c623e4",
+    "name": "Albert House",
+    "resourceId": "5dad74e1fef930025d281872",
+    "cmsId": "albert-house",
+    "pmsId": "3a88b98e-2c4b-4421-85bc-f2c1415bd6ce",
+    "locations": [
+      "uk",
+      "london",
+      "london-east",
+      "shoreditch"
+    ],
+    "alternateAreas": [
+      "farringdon"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:04:34.286Z",
+    "updatedAt": "2020-10-06T07:04:34.286Z"
+  },
+  {
+    "id": "184255fe-1de8-41a4-b50c-8031294b025b",
+    "name": "2 Angel Square",
+    "resourceId": "5dad74ee8e4a5b016df82fae",
+    "cmsId": "2-angel-square",
+    "pmsId": "97a1d4a3-bbd9-49d7-a19f-eed4c96d1bda",
+    "locations": [
+      "uk",
+      "london",
+      "london-north",
+      "angel"
+    ],
+    "alternateAreas": [
+      "farringdon"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:04:36.508Z",
+    "updatedAt": "2020-10-06T07:04:36.508Z"
+  },
+  {
+    "id": "72c483e1-0c93-4d3d-8b39-a597ad69f12c",
+    "name": "Belle House",
+    "resourceId": "5dad74f5fef930025d281c80",
+    "cmsId": "belle-house",
+    "pmsId": "07f1213d-f3cb-4e7b-bcd3-56bb676365e3",
+    "locations": [
+      "uk",
+      "london",
+      "london-south",
+      "victoria"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:04:39.142Z",
+    "updatedAt": "2020-10-06T07:04:39.142Z"
+  },
+  {
+    "id": "2a109005-ba3a-462e-ab2c-a76e0f87f41f",
+    "name": "Black & White",
+    "resourceId": "5dad75018e4a5b016df830e7",
+    "cmsId": "black-and-white",
+    "pmsId": "a3205c74-c09d-4a7a-8ab5-5a4ea3a07f15",
+    "locations": [
+      "uk",
+      "london",
+      "london-east",
+      "shoreditch"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:04:41.483Z",
+    "updatedAt": "2020-10-06T07:04:41.483Z"
+  },
+  {
+    "id": "cc33e9a4-1f75-41ea-a551-465151de8b86",
+    "name": "White Collar Factory",
+    "resourceId": "5dad7519fef930025d282144",
+    "cmsId": "white-collar-factory",
+    "pmsId": "6ad34cdf-ab9d-450f-a155-9c92de466c87",
+    "locations": [
+      "uk",
+      "london",
+      "london-east",
+      "shoreditch"
+    ],
+    "alternateAreas": [
+      "farringdon"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:04:43.619Z",
+    "updatedAt": "2020-10-06T07:04:43.619Z"
+  },
+  {
+    "id": "a3da5e05-bd4f-4f2a-aa0b-ea191dc4e2f0",
+    "name": "Warnford Court",
+    "resourceId": "5dad7528fef930025d28249a",
+    "cmsId": "warnford-court",
+    "pmsId": "6d44a619-9954-4cb2-8d72-bbcf30dd7a2c",
+    "locations": [
+      "uk",
+      "london",
+      "london-east",
+      "bank"
+    ],
+    "alternateAreas": [
+      "aldgate",
+      "city-of-london",
+      "moorgate",
+      "shoreditch",
+      "london-bridge"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:04:46.008Z",
+    "updatedAt": "2020-10-06T07:04:46.008Z"
+  },
+  {
+    "id": "e1d8cb20-7c11-4844-b562-bd995327437c",
+    "name": "Tintagel House",
+    "resourceId": "5dad75388e4a5b016df83d9a",
+    "cmsId": "tintagel-house",
+    "pmsId": "1355ef8b-d785-46ba-9727-25289d372b1d",
+    "locations": [
+      "uk",
+      "london",
+      "london-south",
+      "vauxhall"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:04:48.221Z",
+    "updatedAt": "2020-10-06T07:04:48.221Z"
+  },
+  {
+    "id": "d2ba9857-425f-4ffa-8db6-04522be62cac",
+    "name": "Thomas House",
+    "resourceId": "5dad75458e4a5b016df83f9e",
+    "cmsId": "thomas-house",
+    "pmsId": "800b0a54-16de-4bde-abfb-733840686d7b",
+    "locations": [
+      "uk",
+      "london",
+      "london-south",
+      "victoria"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:04:50.277Z",
+    "updatedAt": "2020-10-06T07:04:50.277Z"
+  },
+  {
+    "id": "6ac6262d-dfb4-4b57-9501-5ea6548fa29d",
+    "name": "Summit House",
+    "resourceId": "5dad755dfef930025d282b9a",
+    "cmsId": "summit-house",
+    "pmsId": "b8f4687b-02ff-4896-8e6c-8e510ac5d44f",
+    "locations": [
+      "uk",
+      "london",
+      "london-central",
+      "holborn"
+    ],
+    "alternateAreas": [
+      "covent-garden",
+      "farringdon",
+      "soho"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:04:52.407Z",
+    "updatedAt": "2020-10-06T07:04:52.407Z"
+  },
+  {
+    "id": "27a08786-a4b8-47e0-920b-0d97a366a7bd",
+    "name": "7 Stratford Place Marylebone Lane",
+    "resourceId": "5dad75678e4a5b016df8447e",
+    "cmsId": "7-stratford-place-marylebone-lane",
+    "pmsId": "16696214-34d7-4f39-bb59-f6aa16943992",
+    "locations": [
+      "uk",
+      "london",
+      "london-central",
+      "marylebone"
+    ],
+    "alternateAreas": [
+      "fitzrovia"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:04:54.412Z",
+    "updatedAt": "2020-10-06T07:04:54.412Z"
+  },
+  {
+    "id": "37468279-1a06-4a34-916d-8c48e21cbbbe",
+    "name": "St. Nicholas House",
+    "resourceId": "5dad75858e4a5b016df84a02",
+    "cmsId": "st-nicholas-house",
+    "pmsId": "c858347b-083c-416b-842f-f885dce26f10",
+    "locations": [
+      "uk",
+      "bristol",
+      "bristol-central"
+    ],
+    "city": "Bristol",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:04:56.539Z",
+    "updatedAt": "2020-10-06T07:04:56.539Z"
+  },
+  {
+    "id": "87fa0e9a-ef14-41e1-8a29-c765990b8e54",
+    "name": "Scott House",
+    "resourceId": "5dad758dfef930025d2839f0",
+    "cmsId": "scott-house",
+    "pmsId": "b6566814-969c-4418-9232-35de8fd12eb8",
+    "locations": [
+      "uk",
+      "london",
+      "london-south",
+      "waterloo"
+    ],
+    "alternateAreas": [
+      "covent-garden"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:04:58.545Z",
+    "updatedAt": "2020-10-06T07:04:58.545Z"
+  },
+  {
+    "id": "7788cc72-18be-4b74-9673-af214163dd14",
+    "name": "Orion House",
+    "resourceId": "5dad75978e4a5b016df850a0",
+    "cmsId": "orion-house",
+    "pmsId": "d667481f-07af-4c51-9b14-f9ad7d85743a",
+    "locations": [
+      "uk",
+      "london",
+      "london-central",
+      "covent-garden"
+    ],
+    "alternateAreas": [
+      "holborn",
+      "fitzrovia",
+      "mayfair",
+      "oxford-street",
+      "soho",
+      "waterloo"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:05:00.668Z",
+    "updatedAt": "2020-10-06T07:05:00.668Z"
+  },
+  {
+    "id": "cf9dacfa-112b-4335-8161-4d89f30dccff",
+    "name": "One Lyric Square",
+    "resourceId": "5dad75b0fef930025d2843bc",
+    "cmsId": "one-lyric-square",
+    "pmsId": "fe23820e-8e70-4708-a574-f4390050fbfc",
+    "locations": [
+      "uk",
+      "london",
+      "london-west",
+      "hammersmith"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:05:03.039Z",
+    "updatedAt": "2020-10-06T07:05:03.039Z"
+  },
+  {
+    "id": "e6d5dee4-fbfd-4c0e-9d7f-70646e975e52",
+    "name": "No. 1 Aire Street",
+    "resourceId": "5dad75c8fef930025d284a96",
+    "cmsId": "no-1-aire-street",
+    "pmsId": "d4bfc40a-77a9-468d-bfd2-79f44c888bf0",
+    "locations": [
+      "uk",
+      "leeds",
+      "leeds-central"
+    ],
+    "city": "Leeds",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:05:05.080Z",
+    "updatedAt": "2020-10-06T07:05:05.080Z"
+  },
+  {
+    "id": "d925e658-5b92-41de-ab1f-5941f7b6a4af",
+    "name": "Melcombe Place",
+    "resourceId": "5dad75d5fef930025d2850af",
+    "cmsId": "melcombe-place",
+    "pmsId": "cff5207a-a0bb-4a8a-8344-d91b075ffcb9",
+    "locations": [
+      "uk",
+      "london",
+      "london-central",
+      "marylebone"
+    ],
+    "alternateAreas": [
+      "paddington"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:05:07.255Z",
+    "updatedAt": "2020-10-06T07:05:07.255Z"
+  },
+  {
+    "id": "cfdcf9bc-a451-465c-90ca-ef36007aaad4",
+    "name": "22 Manchester Square",
+    "resourceId": "5dad75e48e4a5b016df86a55",
+    "cmsId": "22-manchester-square",
+    "pmsId": "a1ceba69-dd49-4eba-bb47-ae9b49aea884",
+    "locations": [
+      "uk",
+      "london",
+      "london-central",
+      "marylebone"
+    ],
+    "alternateAreas": [
+      "fitzrovia",
+      "mayfair",
+      "oxford-street"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:05:09.305Z",
+    "updatedAt": "2020-10-06T07:05:09.305Z"
+  },
+  {
+    "id": "b9a65a20-b442-478a-aaf0-36c82ff9da9f",
+    "name": "Lloyds Avenue",
+    "resourceId": "5dad75eefef930025d285d40",
+    "cmsId": "lloyds-avenue",
+    "pmsId": "611b9df0-2c2a-40de-a1c9-85847cf3d4f1",
+    "locations": [
+      "uk",
+      "london",
+      "london-east",
+      "city-of-london"
+    ],
+    "alternateAreas": [
+      "aldgate",
+      "bank",
+      "moorgate",
+      "shoreditch",
+      "london-bridge"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:05:11.466Z",
+    "updatedAt": "2020-10-06T07:05:11.466Z"
+  },
+  {
+    "id": "2533a866-39de-422f-83da-ca92b40cf9db",
+    "name": "Kirby Street",
+    "resourceId": "5dad76128e4a5b016df87f9b",
+    "cmsId": "kirby-street",
+    "pmsId": "fea21e0b-a6db-443e-9099-e031fd854528",
+    "locations": [
+      "uk",
+      "london",
+      "london-central",
+      "farringdon"
+    ],
+    "alternateAreas": [
+      "holborn"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:05:13.527Z",
+    "updatedAt": "2020-10-06T07:05:13.527Z"
+  },
+  {
+    "id": "c57fd0b4-dfda-48e6-a41c-86da4a4da6d1",
+    "name": "Gridiron Building",
+    "resourceId": "5dad76398e4a5b016df887ee",
+    "cmsId": "gridiron-building",
+    "pmsId": "8b73a6aa-2fe2-40d3-a93d-260319b145a2",
+    "locations": [
+      "uk",
+      "london",
+      "london-north",
+      "kings-cross"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:05:15.651Z",
+    "updatedAt": "2020-10-06T07:05:15.651Z"
+  },
+  {
+    "id": "f3e04c9f-0874-4a0e-beb6-f4dd1f11c2c5",
+    "name": "24 Greville Street",
+    "resourceId": "5dad763efef930025d2875fb",
+    "cmsId": "24-greville-street",
+    "pmsId": "af9f921c-7412-4d1f-8237-8d6bf457e0aa",
+    "locations": [
+      "uk",
+      "london",
+      "london-central",
+      "farringdon"
+    ],
+    "alternateAreas": [
+      "holborn",
+      "bank",
+      "canary-wharf",
+      "city-of-london"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:05:17.813Z",
+    "updatedAt": "2020-10-06T07:05:17.813Z"
+  },
+  {
+    "id": "48e108c3-5f91-41ed-8fa5-f28a8cdb0866",
+    "name": "Green Park House",
+    "resourceId": "5dad7644fef930025d2876b1",
+    "cmsId": "green-park-house",
+    "pmsId": "318092ec-6199-4e59-a4c5-eabadc158436",
+    "locations": [
+      "uk",
+      "london",
+      "london-central",
+      "mayfair"
+    ],
+    "alternateAreas": [
+      "covent-garden",
+      "covent-garden",
+      "oxford-street",
+      "soho"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:05:19.855Z",
+    "updatedAt": "2020-10-06T07:05:19.855Z"
+  },
+  {
+    "id": "7317dbca-8934-461f-b4ef-820110b002cb",
+    "name": "East Side",
+    "resourceId": "5dad76508e4a5b016df88e8a",
+    "cmsId": "east-side",
+    "pmsId": "da7a8e0c-e1fd-457d-8b05-2dd24365a2c2",
+    "locations": [
+      "uk",
+      "london",
+      "london-north",
+      "kings-cross"
+    ],
+    "alternateAreas": [
+      "angel"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:05:21.891Z",
+    "updatedAt": "2020-10-06T07:05:21.891Z"
+  },
+  {
+    "id": "cd42b11d-139c-4997-ae28-9dd767479185",
+    "name": "The Bloomsbury Building",
+    "resourceId": "5dad7659fef930025d287e84",
+    "cmsId": "the-bloomsbury-building",
+    "pmsId": "a401fa85-220c-4cd2-b465-4809006d6c9b",
+    "locations": [
+      "uk",
+      "london",
+      "london-central",
+      "holborn"
+    ],
+    "alternateAreas": [
+      "covent-garden",
+      "farringdon",
+      "fitzrovia",
+      "oxford-street",
+      "soho"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:05:23.965Z",
+    "updatedAt": "2020-10-06T07:05:23.965Z"
+  },
+  {
+    "id": "f90dac92-52f5-4e38-ac63-9595a196a348",
+    "name": "United House",
+    "resourceId": "5db70932655e8b01aa21659b",
+    "cmsId": "united-house",
+    "pmsId": "673b3cfb-13a8-4930-b06e-314db5c8c030",
+    "locations": [
+      "uk",
+      "london",
+      "london-west",
+      "notting-hill"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:05:25.917Z",
+    "updatedAt": "2020-10-06T07:05:25.917Z"
+  },
+  {
+    "id": "6a3a98a7-9ffa-4176-8db4-81d308f2af4f",
+    "name": "Wardour Street",
+    "resourceId": "5db709605f469501a804cf11",
+    "cmsId": "wardour-street",
+    "pmsId": "9255d551-5e02-4e9d-aa0a-36e58d1d2c21",
+    "locations": [
+      "uk",
+      "london",
+      "london-central",
+      "soho"
+    ],
+    "alternateAreas": [
+      "covent-garden",
+      "fitzrovia",
+      "marylebone",
+      "mayfair",
+      "oxford-street"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:05:27.892Z",
+    "updatedAt": "2020-10-06T07:05:27.892Z"
+  },
+  {
+    "id": "ceb5c21d-b654-4995-a0e2-7a576a04cde3",
+    "name": "2 Stephen St",
+    "resourceId": "5db709a1f1a0c30187662e76",
+    "cmsId": "2-stephen-st",
+    "pmsId": "dd56d419-87e5-4e99-8ad0-456e6b5810c3",
+    "locations": [
+      "uk",
+      "london",
+      "london-central",
+      "fitzrovia"
+    ],
+    "alternateAreas": [
+      "covent-garden",
+      "marylebone",
+      "mayfair",
+      "oxford-street",
+      "soho"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:05:29.945Z",
+    "updatedAt": "2020-10-06T07:05:29.945Z"
+  },
+  {
+    "id": "778c7838-7c00-41d8-a492-d15c8867d2eb",
+    "name": "York House",
+    "resourceId": "5db70a47f1a0c3018766462e",
+    "cmsId": "york-house",
+    "pmsId": "bce9a1c4-fde3-42a9-b158-975afa01a51f",
+    "locations": [
+      "uk",
+      "london",
+      "london-north",
+      "kings-cross"
+    ],
+    "alternateAreas": [
+      "farringdon",
+      "angel"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:05:32.368Z",
+    "updatedAt": "2020-10-06T07:05:32.368Z"
+  },
+  {
+    "id": "5012db96-7a2f-45c7-9f3e-3f5c4633e23f",
+    "name": "Meeting Room House",
+    "resourceId": "5db70ab409f25a013711d69e",
+    "cmsId": "meeting-room-house",
+    "pmsId": "04f666fb-8931-408f-ab1a-c3c99f91a0be",
+    "locations": [
+      "uk",
+      "london"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:05:34.522Z",
+    "updatedAt": "2020-10-06T07:05:34.522Z"
+  },
+  {
+    "id": "c4718f74-1803-41be-b216-089036d812e1",
+    "name": "One Canada Square",
+    "resourceId": "5db70acc5f469501a804fc4a",
+    "cmsId": "one-canada-square",
+    "pmsId": "a032a9de-310b-4240-9ca2-d74e883ae777",
+    "locations": [
+      "uk",
+      "london",
+      "london-east",
+      "canary-wharf"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:05:36.546Z",
+    "updatedAt": "2020-10-06T07:05:36.546Z"
+  },
+  {
+    "id": "baef7a34-ef47-42e0-ad61-8b68af3d118c",
+    "name": "Liberty House",
+    "resourceId": "5f1988f577a0e00011c2a687",
+    "cmsId": "Liberty House",
+    "pmsId": "02a71799-0314-4660-98c1-e05e876f7909",
+    "locations": [
+      "uk",
+      "london"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:34:47.988Z",
+    "updatedAt": "2020-10-06T07:34:47.988Z"
+  },
+  {
+    "id": "60dae1c3-40c4-4638-8a43-e0a360cca65b",
+    "name": "Pressehaus",
+    "resourceId": "Resourceid Pressehaus",
+    "cmsId": "Pressehaus",
+    "pmsId": "3585e393-d3fb-4cd1-9a8e-d7b40457bb85",
+    "locations": [
+      "Germany",
+      "Berlin"
+    ],
+    "city": "Berlin",
+    "country": "Germany",
+    "createdAt": "2020-10-06T07:34:51.886Z",
+    "updatedAt": "2020-10-06T07:34:51.886Z"
+  },
+  {
+    "id": "69f45143-8ecf-4341-a0c0-a54333706bcb",
+    "name": "Unter den Linden",
+    "resourceId": "Resourceid Unter den Linden",
+    "cmsId": "Unter den Linden",
+    "pmsId": "58b9970a-ff2d-4235-a550-f29baaf079a1",
+    "locations": [
+      "Germany",
+      "Berlin"
+    ],
+    "city": "Berlin",
+    "country": "Germany",
+    "createdAt": "2020-10-06T07:34:54.410Z",
+    "updatedAt": "2020-10-06T07:34:54.410Z"
+  },
+  {
+    "id": "b423676c-3649-47dc-b028-43aea90c8932",
+    "name": "TOG (DE)",
+    "resourceId": "Resourceid TOG (DE)",
+    "cmsId": "TOG (DE)",
+    "pmsId": "8371dc12-fd40-4bbd-bf6c-bdd0802e31c6",
+    "locations": [
+      "Germany",
+      "Berlin"
+    ],
+    "city": "Berlin",
+    "country": "Germany",
+    "createdAt": "2020-10-06T07:34:56.711Z",
+    "updatedAt": "2020-10-06T07:34:56.711Z"
+  },
+  {
+    "id": "356fadce-1721-4523-b90f-7b20a6df0981",
+    "name": "TOG (UK)",
+    "resourceId": "5d4a971576826d001076b4ce",
+    "cmsId": "tog-default-uk-building",
+    "pmsId": "393b855f-8aaa-43c3-9915-8ddf0e6cbeb8",
+    "locations": [
+      "uk",
+      "london"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:34:58.960Z",
+    "updatedAt": "2020-10-06T07:34:58.960Z"
+  },
+  {
+    "id": "66ec1227-b468-431c-84b7-9dce7649e24e",
+    "name": "The Smiths Building",
+    "resourceId": "5db70b2a5f469501a80507de",
+    "cmsId": "the-smiths-building",
+    "pmsId": "90e9e45e-3bf3-4270-b4e6-fca9f94e2adf",
+    "locations": [
+      "uk",
+      "london",
+      "london-central",
+      "marylebone"
+    ],
+    "alternateAreas": [
+      "fitzrovia",
+      "mayfair",
+      "oxford-street",
+      "soho"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:35:01.707Z",
+    "updatedAt": "2020-10-06T07:35:01.707Z"
+  },
+  {
+    "id": "a1d6b1fd-22bb-49e4-940a-6b4ea2ca4182",
+    "name": "Douglas House",
+    "resourceId": "5db70b455f469501a8050c9a",
+    "cmsId": "douglas-house",
+    "pmsId": "8cbabe5b-2ae4-410e-828d-feee5037282f",
+    "locations": [
+      "uk",
+      "london"
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "createdAt": "2020-10-06T07:35:03.999Z",
+    "updatedAt": "2020-10-06T07:35:03.999Z"
+  },
+  {
+    "id": "5c719743-152e-4d34-b324-31842e1c2482",
+    "name": "Oper46",
+    "resourceId": "Resourceid Oper46",
+    "cmsId": "Oper46",
+    "pmsId": "9b182cad-0c96-46e0-8f19-17761c931967",
+    "locations": [
+      "Germany",
+      "Frankfurt"
+    ],
+    "city": "Frankfurt",
+    "country": "Germany",
+    "createdAt": "2020-10-06T07:35:06.015Z",
+    "updatedAt": "2020-10-06T07:35:06.015Z"
+  },
+  {
+    "id": "996a65d0-41a7-48ad-82d1-e1afdce2295d",
+    "name": "Haus am Domplatz",
+    "resourceId": "Resourceid Haus am Domplatz",
+    "cmsId": "Haus am Domplatz",
+    "pmsId": "8981212b-e229-45ea-a030-44bba9ecc968",
+    "locations": [
+      "Germany",
+      "Hamburg"
+    ],
+    "city": "Hamburg",
+    "country": "Germany",
+    "createdAt": "2020-10-06T07:35:08.176Z",
+    "updatedAt": "2020-10-06T07:35:08.176Z"
+  },
+  {
+    "id": "6502f1fe-8471-489a-86d2-37a9c7ff0f65",
+    "name": "Kontorhaus",
+    "resourceId": "Resourceid Kontorhaus",
+    "cmsId": "Kontorhaus",
+    "pmsId": "e13c6b75-b91e-4c90-95f5-8dfb74b59a1d",
+    "locations": [
+      "Germany",
+      "Berlin"
+    ],
+    "city": "Berlin",
+    "country": "Germany",
+    "createdAt": "2020-10-06T07:35:10.662Z",
+    "updatedAt": "2020-10-06T07:35:10.662Z"
+  }
+]
